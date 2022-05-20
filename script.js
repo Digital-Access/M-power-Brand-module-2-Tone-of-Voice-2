@@ -28,7 +28,7 @@ const config = {
         "",
         "",
         "",
-        "",
+        ""
     ],
     small_answer_image: [
         "",
@@ -36,7 +36,7 @@ const config = {
         "",
         "",
         "",
-        "",
+        ""
     ],
     background_colour: "rgba(37, 81, 123, 1)",
     background_image: "https://a.storyblok.com/f/112136/1920x1409/5ba98e7f92/texture-bg-5efdcf3715f790-74747584-606d864d1b22d1-55861802.jpg",
